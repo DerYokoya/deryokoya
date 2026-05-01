@@ -36,7 +36,6 @@ const dory = {
   location:    "Montréal, QC 🍁",
   looking_for: "Fall 2026 Internship",
   interests:   ["Game Dev", "AI/ML", "Bot Development", "Productivity Tools"],
-  fun_fact:    "I named myself after a fish and I have zero regrets.",
 };
 ```
 
@@ -123,8 +122,17 @@ A **Telegram bot that runs trivia quizzes**. Drop it in any group chat and watch
 
 <div align="center">
 
+
 <a href="https://github.com/DerYokoya">
   <img src="https://img.shields.io/badge/GitHub-DerYokoya-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dory-saint-surin-629639300">
+  <img src="https://img.shields.io/badge/LinkedIn-Dory%20Saint--Surin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:doryvl224@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
 </a>
 
 *Feel free to reach out, whether it's an internship opportunity, a collab idea, or just to say hi. 😄*
