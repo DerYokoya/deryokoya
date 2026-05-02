@@ -85,6 +85,7 @@ A **lightweight desktop note-taking application** built for speed. No bloat, no 
 ### 🤖 [AI-Language-Learning](https://github.com/DerYokoya/AI-Language-Learning)
 > *JavaScript · REST API · Node.js · Express.js · PostgreSQL · OpenRouter*
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ai-language-learning.onrender.com/)<br>
 An **AI-powered language learning assistant** that makes picking up a new language actually engaging. Leverages modern AI APIs to adapt to the learner, smarter than static flashcards, while friendlier than a tutor.
 
 </td>
