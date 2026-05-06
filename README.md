@@ -94,6 +94,7 @@ An **AI-powered language learning assistant** that makes picking up a new langua
 ### 🎮 [Telegram-Trivia-Bot](https://github.com/DerYokoya/Telegram-Trivia-Bot)
 > *TypeScript · Node.js · OpenRouter*
 
+[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-Bot-blue?style=for-the-badge)](https://t.me/UraharaTriviaBot/)<br>
 A **Telegram bot that runs trivia quizzes**. Drop it in any group chat and watch the competition begin. Built with TypeScript for type safety and reliability. Because some bots should just be fun.
 
 </td>
