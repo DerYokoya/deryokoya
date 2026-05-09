@@ -75,7 +75,7 @@ A **Unity-based circuit simulation** project, which designs and tests electrical
 ### 📝 [NoteApp](https://github.com/DerYokoya/NoteApp)
 > *Python · PyQt6*
 
-A **lightweight desktop note-taking application** built for speed. No bloat, no cloud login, just a fast and snappy way to capture your thoughts. Proves that the best tool is the one that gets out of your way.
+A lightweight desktop note-taking application built with PyQt6, featuring an intuitive GUI, persistent document management, and compatibility with TXT and HTML files. Implemented PDF export functionality, a tab-based document object model where each file manages its own state, synchronized state handling, and unit-tested components to ensure reliability across sessions.
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ A **lightweight desktop note-taking application** built for speed. No bloat, no 
 > *JavaScript · REST API · Node.js · Express.js · PostgreSQL · OpenRouter*
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ai-language-learning.onrender.com/)<br>
-A **full-stack AI language learning platform** that makes picking up a new language actually engaging. Leverages modern AI APIs to adapt to the learner, smarter than static flashcards, while friendlier than a tutor.
+Built a full-stack AI language-learning platform with conversational practice, AI-generated flashcards, authentication, and persistent progress tracking. Designed REST APIs with Express.js and PostgreSQL while handling AI response structuring, state management, and responsive UI across devices.
 
 </td>
 <td width="50%" valign="top">
@@ -94,7 +94,8 @@ A **full-stack AI language learning platform** that makes picking up a new langu
 ### 🎮 [Telegram-Trivia-Bot](https://github.com/DerYokoya/Telegram-Trivia-Bot)
 > *TypeScript · Node.js · OpenRouter*
 
-A **Telegram bot that runs trivia quizzes**. Drop it in any group chat and watch the competition begin. Built with TypeScript for type safety and reliability. Because some bots should just be fun.
+[![Use Bot](https://img.shields.io/badge/Use-Bot-cyan?style=for-the-badge)](https://t.me/UraharaTriviaBot/)<br>
+A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with TypeScript to ensure type safety and improve maintainability, with PostgreSQL used for persistent data storage. Integrated OpenRouter APIs for dynamic question generation and implemented in-memory caching to reduce repeated API requests and improve response performance for recurring categories.
 
 </td>
 </tr>
