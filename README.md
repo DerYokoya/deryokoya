@@ -68,7 +68,7 @@ I'm a first-year Software Engineering student who loves building things that are
 > *JavaScript · REST API · Node.js · Express.js · PostgreSQL · OpenRouter*
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ai-language-learning.onrender.com/)<br>
-Built a **full-stack** AI language-learning platform with conversational practice, AI-generated flashcards, authentication, and **persistent** progress tracking. Designed **REST APIs** with **Express.js** and **PostgreSQL** while handling AI response structuring, **state management**, and **responsive UI** across devices.
+A **full-stack** AI language-learning platform with conversational practice, AI-generated flashcards, authentication, and **persistent** progress tracking. Designed **REST APIs** with **Express.js** and **PostgreSQL** while handling AI response structuring, **state management**, and **responsive UI** across devices.
 
 </td>
 <td width="50%" valign="top">
