@@ -25,7 +25,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 ```ts
 const dory = {
@@ -43,7 +43,7 @@ I'm a first-year Software Engineering student who loves building things that are
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,16 +58,17 @@ I'm a first-year Software Engineering student who loves building things that are
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [H25-SIM-CIRCUIT](https://github.com/DerYokoya/H25-SIM-CIRCUIT)
-> *C# · Unity*
+### 🤖 [AI-Language-Learning](https://github.com/DerYokoya/AI-Language-Learning)
+> *JavaScript · REST API · Node.js · Express.js · PostgreSQL · OpenRouter*
 
-A **Unity**-based real-time circuit simulation system implementing a **component-driven architecture** to model electrical circuit behavior in a 3D environment. Built simulation logic in **C#** to handle **dynamic state propagation** (current flow, resistance changes, and component failure conditions), alongside custom **ShaderLab/HLSL rendering** for real-time visual feedback. Developed in a team environment using **Git** for **version control**, including **branching** strategies, **merge conflict resolution**, and coordinated feature integration. Collaborated through structured task tracking and iterative development workflows.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ai-language-learning.onrender.com/)<br>
+Built a **full-stack** AI language-learning platform with conversational practice, AI-generated flashcards, authentication, and **persistent** progress tracking. Designed **REST APIs** with **Express.js** and **PostgreSQL** while handling AI response structuring, **state management**, and **responsive UI** across devices.
 
 </td>
 <td width="50%" valign="top">
@@ -82,11 +83,10 @@ A lightweight desktop note-taking application built with **PyQt6**, featuring an
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [AI-Language-Learning](https://github.com/DerYokoya/AI-Language-Learning)
-> *JavaScript · REST API · Node.js · Express.js · PostgreSQL · OpenRouter*
+### ⚡ [H25-SIM-CIRCUIT](https://github.com/DerYokoya/H25-SIM-CIRCUIT)
+> *C# · Unity*
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ai-language-learning.onrender.com/)<br>
-Built a **full-stack** AI language-learning platform with conversational practice, AI-generated flashcards, authentication, and **persistent** progress tracking. Designed **REST APIs** with **Express.js** and **PostgreSQL** while handling AI response structuring, **state management**, and **responsive UI** across devices.
+A **Unity**-based real-time circuit simulation system implementing a **component-driven architecture** to model electrical circuit behavior in a 3D environment. Built simulation logic in **C#** to handle **dynamic state propagation** (current flow, resistance changes, and component failure conditions), alongside custom **ShaderLab/HLSL rendering** for real-time visual feedback. Developed in a team environment using **Git** for **version control**, including **branching** strategies, **merge conflict resolution**, and coordinated feature integration. Collaborated through structured task tracking and iterative development workflows.
 
 </td>
 <td width="50%" valign="top">
@@ -103,7 +103,7 @@ A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with *
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DerYokoya&theme=midnight-purple&hide_border=true" height="150" />
@@ -111,16 +111,16 @@ A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with *
 
 ---
 
-## 🎯 What I'm Currently Up To
+## What I'm Currently Up To
 
-- 🎓 Grinding through my first year of Software Engineering at **Concordia**
-- 🔭 Expanding my projects and learning new frameworks
-- 🌱 Deepening my knowledge in **AI/ML** and **full-stack development**
-- 👀 **Actively looking for a Fall internship**
+- Grinding through my first year of Software Engineering at **Concordia**
+- Expanding my projects and learning new frameworks
+- Deepening my knowledge in **AI/ML** and **full-stack development**
+- **Actively looking for a Fall internship**
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
