@@ -67,7 +67,7 @@ I'm a first-year Software Engineering student who loves building things that are
 ### ⚡ [H25-SIM-CIRCUIT](https://github.com/DerYokoya/H25-SIM-CIRCUIT)
 > *C# · Unity*
 
-A Unity-based real-time circuit simulation system implementing a component-driven architecture to model electrical circuit behavior in a 3D environment. Built simulation logic in C# to handle dynamic state propagation (current flow, resistance changes, and component failure conditions), alongside custom ShaderLab/HLSL rendering for real-time visual feedback.
+A **Unity**-based real-time circuit simulation system implementing a **component-driven architecture** to model electrical circuit behavior in a 3D environment. Built simulation logic in **C#** to handle **dynamic state propagation** (current flow, resistance changes, and component failure conditions), alongside custom **ShaderLab/HLSL rendering** for real-time visual feedback. Developed in a team environment using **Git** for **version control**, including **branching** strategies, **merge conflict resolution**, and coordinated feature integration. Collaborated through structured task tracking and iterative development workflows.
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ A Unity-based real-time circuit simulation system implementing a component-drive
 ### 📝 [NoteApp](https://github.com/DerYokoya/NoteApp)
 > *Python · PyQt6*
 
-A lightweight desktop note-taking application built with PyQt6, featuring an intuitive GUI, persistent document management, and compatibility with TXT and HTML files. Implemented PDF export functionality, a tab-based document object model where each file manages its own state, synchronized state handling, and unit-tested components to ensure reliability across sessions.
+A lightweight desktop note-taking application built with **PyQt6**, featuring an intuitive **GUI**, **persistent** document management, and compatibility with TXT and HTML files. Implemented **PDF export** functionality, a tab-based **document object model** where each file manages its own state, synchronized **state handling**, and **unit-tested** components to ensure reliability across sessions.
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ A lightweight desktop note-taking application built with PyQt6, featuring an int
 > *JavaScript · REST API · Node.js · Express.js · PostgreSQL · OpenRouter*
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ai-language-learning.onrender.com/)<br>
-Built a full-stack AI language-learning platform with conversational practice, AI-generated flashcards, authentication, and persistent progress tracking. Designed REST APIs with Express.js and PostgreSQL while handling AI response structuring, state management, and responsive UI across devices.
+Built a **full-stack** AI language-learning platform with conversational practice, AI-generated flashcards, authentication, and **persistent** progress tracking. Designed **REST APIs** with **Express.js** and **PostgreSQL** while handling AI response structuring, **state management**, and **responsive UI** across devices.
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +95,7 @@ Built a full-stack AI language-learning platform with conversational practice, A
 > *TypeScript · Node.js · OpenRouter*
 
 [![Use Bot](https://img.shields.io/badge/Use-Bot-cyan?style=for-the-badge)](https://t.me/UraharaTriviaBot/)<br>
-A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with TypeScript to ensure type safety and improve maintainability, with PostgreSQL used for persistent data storage. Integrated OpenRouter APIs for dynamic question generation and implemented in-memory caching to reduce repeated API requests and improve response performance for recurring categories.
+A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with **TypeScript** to ensure **type safety** and improve **maintainability**, with **PostgreSQL** used for **persistent data storage**. Integrated **OpenRouter APIs** for dynamic question generation and implemented **in-memory caching** to reduce repeated API requests and **improve response performance** for recurring categories.
 
 </td>
 </tr>
