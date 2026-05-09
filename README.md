@@ -67,7 +67,7 @@ I'm a first-year Software Engineering student who loves building things that are
 ### ⚡ [H25-SIM-CIRCUIT](https://github.com/DerYokoya/H25-SIM-CIRCUIT)
 > *C# · Unity*
 
-A **Unity-based circuit simulation** project, which designs and tests electrical circuits in an interactive 3D environment. Built with a focus on clean logic, real-time feedback, and game-engine architecture.
+A Unity-based real-time circuit simulation system implementing a component-driven architecture to model electrical circuit behavior in a 3D environment. Built simulation logic in C# to handle dynamic state propagation (current flow, resistance changes, and component failure conditions), alongside custom ShaderLab/HLSL rendering for real-time visual feedback.
 
 </td>
 <td width="50%" valign="top">
