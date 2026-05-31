@@ -76,7 +76,7 @@ A **full-stack** AI language-learning platform with conversational practice, AI-
 ### 📝 [NoteApp](https://github.com/DerYokoya/NoteApp)
 > *Python · PyQt6*
 
-[![Download App](https://img.shields.io/badge/Download-App-0A192F?style=for-the-badge)](https://github.com/DerYokoya/NoteApp/releases/tag/v1.0.0)<br>
+[![Download App](https://img.shields.io/badge/Download-App-0A192F?style=for-the-badge)](https://github.com/DerYokoya/NoteApp/releases/tag/v1.1.0)<br>
 A lightweight desktop note-taking application built with **PyQt6**, featuring an intuitive **GUI**, **persistent** document management, and compatibility with TXT and HTML files. Implemented **PDF export** functionality, a tab-based **document object model** where each file manages its own state, synchronized **state handling**, and **unit-tested** components to ensure reliability across sessions.
 
 </td>
