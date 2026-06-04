@@ -104,14 +104,6 @@ A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with *
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DerYokoya&theme=midnight-purple&hide_border=true" height="150" />
-</div>
-
----
-
 ## What I'm Currently Up To
 
 - Grinding through my first year of Software Engineering at **Concordia**
