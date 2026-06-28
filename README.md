@@ -17,7 +17,7 @@
 <!-- Status badges -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Year-1st%20Year%20SWE-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Year-2nd%20Year%20SWE-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Based%20in-Montréal%2C%20QC-red?style=for-the-badge&logo=location&logoColor=white" />
 </p>
 
@@ -32,7 +32,7 @@ const dory = {
   name:        "Dory",
   handle:      "DerYokoya",
   school:      "Concordia University — Software Engineering",
-  year:        "1st Year",
+  year:        "2nd Year",
   location:    "Montréal, QC 🍁",
   looking_for: "Fall 2026 Internship",
   interests:   ["AI/ML", "Full-Stack Dev", "Game Dev", "Building useful tools"]
