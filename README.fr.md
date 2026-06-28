@@ -37,11 +37,11 @@ const dory = {
   année:      '2e année',
   résidence:  'Montréal, QC',
   recherche:  'Stage en automne 2026',
-  interets:   ['IA/ML', 'Développement Full-Stack', 'Développement de jeux', 'Création d\'outils utiles']
+  interets:   ['IA/ML', 'Développement Full-Stack', 'Développement de jeux', 'Création d'outils utiles']
 };
 ```
 
-Je suis étudiant en première année d'ingénierie logicielle et j'adore créer des choses qui sont réellement *utiles*, qu'il s'agisse d'une application de bureau pour s'organiser, d'un bot pour animer une discussion de groupe ou d'un assistant IA pour rendre l'apprentissage moins pénible. Je maîtrise rapidement les nouveaux outils et je suis toujours à la recherche du prochain problème intéressant à résoudre.
+Je suis étudiant en deuxième année d'ingénierie logicielle et j'adore créer des choses qui sont réellement *utiles*, qu'il s'agisse d'une application de bureau pour s'organiser, d'un bot pour animer une discussion de groupe ou d'un assistant IA pour rendre l'apprentissage moins pénible. Je maîtrise rapidement les nouveaux outils et je suis toujours à la recherche du prochain problème intéressant à résoudre.
 
 ---
 
