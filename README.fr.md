@@ -18,9 +18,9 @@
 
 <!-- Badges de statut -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Year-1st%20Year%20SWE-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based%20in-Montr%C3%A9al%2C%20QC-red?style=for-the-badge&logo=location&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Ouvert%20aux%20Stages-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Year-2nd%20Year%20SWE-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bas%C3%A9%20&#224-Montr%C3%A9al%2C%20QC-red?style=for-the-badge&logo=location&logoColor=white" />
 </p>
 
 </div>
