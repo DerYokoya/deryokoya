@@ -10,7 +10,7 @@
 
   <!-- Animation de saisie -->
   <a href="https://github.com/DerYokoya" style="display: inline-block; margin-bottom: 20px; text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+premi%C3%A8re+ann%C3%A9e+en+G%C3%A9nie+logicielle;D%C3%A9veloppeur+full-stack+en+devenance;Passionn%C3%A9+de+d%C3%A9veloppement+de+jeux;Je+cr%C3%A9e+des+choses+g%C3%A9niales%2C+un+commit+%C3%A0+la+fois" alt="SVG de frappe" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+G%C3%A9nie+logiciel;D%C3%A9veloppeur+full-stack+en+devenance;Passionn%C3%A9+de+d%C3%A9veloppement;Des+cr%C3%A9ations+g%C3%A9niales%2C+un+commit+%C3%A0+la+fois" alt="SVG de frappe" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"/>
   </a>
 </div>
 
@@ -31,13 +31,13 @@
 
 ```ts
 const dory = {
-  name:        'Dory',
-  handle:      'DerYokoya',
-  school:      'Université Concordia — Génie logiciel',
-  year:        '1re année',
-  location:    'Montréal, QC 🍁',
-  looking_for: 'Stage à l\'automne 2026',
-  interests:   ['IA/ML', 'Développement Full-Stack', 'Développement de jeux', 'Création d\'outils utiles']
+  nom:        'Dory',
+  pseudo:     'DerYokoya',
+  ecole:      'Université Concordia — Génie logiciel',
+  année:      '2e année',
+  résidence:  'Montréal, QC',
+  recherche:  'Stage en automne 2026',
+  interets:   ['IA/ML', 'Développement Full-Stack', 'Développement de jeux', 'Création d\'outils utiles']
 };
 ```
 
