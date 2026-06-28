@@ -8,7 +8,7 @@
 
   <!-- Typing animation -->
   <a href="https://github.com/DerYokoya" style="display: inline-block; margin-bottom: 20px; text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=First-Year+Software+Engineering+Student;Full-Stack+Developer+in+the+Making;Game+Dev+Enthusiast;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Second-Year+Software+Engineering+Student;Full-Stack+Developer+in+the+Making;Game+Dev+Enthusiast;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"/>
   </a>
 </div>
 
@@ -39,7 +39,7 @@ const dory = {
 };
 ```
 
-I'm a first-year Software Engineering student who loves building things that are actually *useful*, whether that's a desktop app to stay organized, a bot to liven up a group chat, or an AI assistant to make learning feel less painful. I pick up new tools fast and I'm always looking for the next interesting problem to solve.
+I'm a second-year Software Engineering student who loves building things that are actually *useful*, whether that's a desktop app to stay organized, a bot to liven up a group chat, or an AI assistant to make learning feel less painful. I pick up new tools fast and I'm always looking for the next interesting problem to solve.
 
 ---
 
@@ -106,7 +106,7 @@ A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with *
 
 ## What I'm Currently Up To
 
-- Grinding through my first year of Software Engineering at **Concordia**
+- Grinding through my second year of Software Engineering at **Concordia**
 - Expanding my projects and learning new frameworks
 - Deepening my knowledge in **AI/ML** and **full-stack development**
 - **Actively looking for a Fall internship**
