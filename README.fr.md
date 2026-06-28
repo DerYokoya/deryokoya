@@ -128,7 +128,7 @@ Un bot Telegram qui organise des quiz multijoueurs dans des discussions de group
 </a>
 &nbsp;
 <a href="mailto:doryvl224@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge e-mail"/>
+  <img src="https://img.shields.io/badge/Email-Contactez&#45Moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge e-mail"/>
 </a>
 
 *N'hésitez pas à me contacter, que ce soit pour une opportunité de stage, une idée de collaboration ou simplement pour dire bonjour. 😄*
