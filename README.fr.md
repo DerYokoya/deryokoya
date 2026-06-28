@@ -37,7 +37,7 @@ const dory = {
   année:      '2e année',
   résidence:  'Montréal, QC',
   recherche:  'Stage en automne 2026',
-  interets:   ['IA/ML', 'Développement Full-Stack', 'Développement de jeux', 'Création d'outils utiles']
+  interets:   ["IA/ML", "Développement Full-Stack", "Développement de jeux", "Création d'outils utiles"]
 };
 ```
 
