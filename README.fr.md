@@ -10,7 +10,7 @@
 
   <!-- Animation de saisie -->
   <a href="https://github.com/DerYokoya" style="display: inline-block; margin-bottom: 20px; text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Étudiant+en+première+année+d'ingénierie+logicielle; Développeur+full-stack+en+devenance ; Passionné+de+développement+de+jeux ; Je+crée+des+choses+géniales,+un+commit+à+la+fois" alt="SVG de frappe" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Étudiant+en+première+année+en+Génie+logicielle; Développeur+full-stack+en+devenance ; Passionné+de+développement+de+jeux ; Je+crée+des+choses+géniales,+un+commit+à+la+fois" alt="SVG de frappe" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"/>
   </a>
 </div>
 
