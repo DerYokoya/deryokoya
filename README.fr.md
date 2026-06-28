@@ -10,7 +10,7 @@
 
   <!-- Animation de saisie -->
   <a href="https://github.com/DerYokoya" style="display: inline-block; margin-bottom: 20px; text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+G%C3%A9nie+logiciel;D%C3%A9veloppeur+full-stack+en+devenance;Passionn%C3%A9+de+d%C3%A9veloppement;Des+cr%C3%A9ations+g%C3%A9niales%2C+un+commit+%C3%A0+la+fois" alt="SVG de frappe" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+G%C3%A9nie+logiciel;D%C3%A9veloppeur+full-stack+en+devenance;Passionn%C3%A9+de+d%C3%A9veloppement+de+jeux;Des+cr%C3%A9ations+g%C3%A9niales%2C+un+commit+%C3%A0+la+fois" alt="SVG de frappe" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);"/>
   </a>
 </div>
 
@@ -108,7 +108,7 @@ Un bot Telegram qui organise des quiz multijoueurs dans des discussions de group
 
 ## Ce que je fais en ce moment
 
-- Je m'attelle à ma première année d'ingénierie logicielle à **Concordia**
+- J'étudie pour ma deuxième année d'ingénierie logicielle à **Concordia**
 - Je développe mes projets et j'apprends de nouveaux frameworks
 - J'approfondis mes connaissances en **IA/ML** et en **développement full-stack**
 - **Je recherche activement un stage pour l'automne**
