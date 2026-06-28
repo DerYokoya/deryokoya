@@ -1,3 +1,5 @@
+[Français](./README.fr.md) | **English**
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -33,7 +35,7 @@ const dory = {
   handle:      "DerYokoya",
   school:      "Concordia University — Software Engineering",
   year:        "2nd Year",
-  location:    "Montréal, QC 🍁",
+  location:    "Montréal, QC",
   looking_for: "Fall 2026 Internship",
   interests:   ["AI/ML", "Full-Stack Dev", "Game Dev", "Building useful tools"]
 };
