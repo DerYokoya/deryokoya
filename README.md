@@ -35,7 +35,7 @@ const dory = {
   year:        "1st Year",
   location:    "Montréal, QC 🍁",
   looking_for: "Fall 2026 Internship",
-  interests: ["AI/ML", "Full-Stack Dev", "Game Dev", "Building useful tools"]
+  interests:   ["AI/ML", "Full-Stack Dev", "Game Dev", "Building useful tools"]
 };
 ```
 
