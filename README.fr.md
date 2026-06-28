@@ -6,7 +6,7 @@
 <div style="text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #fff; background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 
   <!-- Bannière d'en-tête animée -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20Je%20suis%20Dory%20%F0%9F%91%8B%F0%9F%8F%BE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20en%20g%C3%A9nie%20du%20logiciel%20%40%20%C3%A0%20l'Universit%C3%A9%20Concordia&descAlignY=58&descSize=18&animation=fadeIn" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20Je%20suis%20Dory%20%F0%9F%91%8B%F0%9F%8F%BE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20en%20g%C3%A9nie%20logiciel%20%40%20%C3%A0%20l'Universit%C3%A9%20Concordia&descAlignY=58&descSize=18&animation=fadeIn" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
 
   <!-- Animation de saisie -->
   <a href="https://github.com/DerYokoya" style="display: inline-block; margin-bottom: 20px; text-decoration: none;">
