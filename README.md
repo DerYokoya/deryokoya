@@ -97,7 +97,6 @@ A **Unity**-based real-time circuit simulation system implementing a **component
 ### 🎮 [Telegram-Trivia-Bot](https://github.com/DerYokoya/Telegram-Trivia-Bot)
 > *TypeScript · Node.js · OpenRouter*
 
-[![Use Bot](https://img.shields.io/badge/Use-Bot-cyan?style=for-the-badge)](https://t.me/UraharaTriviaBot/)<br>
 A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with **TypeScript** to ensure **type safety** and improve **maintainability**, with **PostgreSQL** used for **persistent data storage**. Integrated **OpenRouter APIs** for dynamic question generation and implemented **in-memory caching** to reduce repeated API requests and **improve response performance** for recurring categories.
 
 </td>
