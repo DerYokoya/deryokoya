@@ -18,7 +18,6 @@
 
 <!-- Status badges -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
   <img src="https://img.shields.io/badge/Year-2nd%20Year%20SWE-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Based%20in-Montréal%2C%20QC-red?style=for-the-badge&logo=location&logoColor=white" />
 </p>
@@ -36,7 +35,6 @@ const dory = {
   school:      "Concordia University — Software Engineering",
   year:        "2nd Year",
   location:    "Montréal, QC",
-  looking_for: "Fall 2026 Internship",
   interests:   ["AI/ML", "Full-Stack Dev", "Game Dev", "Building useful tools"]
 };
 ```
@@ -110,7 +108,6 @@ A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with *
 - Grinding through my second year of Software Engineering at **Concordia**
 - Expanding my projects and learning new frameworks
 - Deepening my knowledge in **AI/ML** and **full-stack development**
-- **Actively looking for a Fall internship**
 
 ---
 
@@ -131,7 +128,7 @@ A Telegram bot that runs multiplayer trivia quizzes in group chats. Built with *
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
 </a>
 
-*Feel free to reach out, whether it's an internship opportunity, a collab idea, or just to say hi. 😄*
+*Feel free to reach out, whether it's an opportunity, a collab idea, or just to say hi. 😄*
 
 </div>
 
