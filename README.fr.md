@@ -18,7 +18,6 @@
 
 <!-- Badges de statut -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Ouvert%20aux%20Stages-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
   <img src="https://img.shields.io/badge/Année-2e%20Année%20GL-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Bas%C3%A9%20&#224-Montr%C3%A9al%2C%20QC-red?style=for-the-badge&logo=location&logoColor=white" />
 </p>
@@ -36,7 +35,6 @@ const dory = {
   ecole:      'Université Concordia — Génie logiciel',
   année:      '2e année',
   résidence:  'Montréal, QC',
-  recherche:  'Stage en automne 2026',
   interets:   ["IA/ML", "Développement Full-Stack", "Développement de jeux", "Création d'outils utiles"]
 };
 ```
@@ -110,7 +108,6 @@ Un bot Telegram qui organise des quiz multijoueurs dans des discussions de group
 - J'étudie pour ma deuxième année d'ingénierie logicielle à **Concordia**
 - Je développe mes projets et j'apprends de nouveaux frameworks
 - J'approfondis mes connaissances en **IA/ML** et en **développement full-stack**
-- **Je recherche activement un stage pour l'automne**
 
 ---
 
@@ -130,7 +127,7 @@ Un bot Telegram qui organise des quiz multijoueurs dans des discussions de group
   <img src="https://img.shields.io/badge/Email-Contactez&#45Moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge e-mail"/>
 </a>
 
-*N'hésitez pas à me contacter, que ce soit pour une opportunité de stage, une idée de collaboration ou simplement pour dire bonjour. 😄*
+*N'hésitez pas à me contacter, que ce soit pour une opportunité, une idée de collaboration ou simplement pour dire bonjour. 😄*
 
 </div>
 
